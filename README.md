@@ -1,2 +1,2 @@
-# HandsOn-FindingSpecificPoint
-Sometimes, we face the problem like finding the point within given data. If the point that you are looking for is available within data, it means you are lucky. How about the point is not there? Here, we gave a solution which is quite straightforward to follow.
+# ACS_Catalysis_Articles
+This repo illustrates the scraping the special issues from ACS_Catalysis Journals and filter them out according to the user's interests. The filtered data will be sent to the user's email. 
